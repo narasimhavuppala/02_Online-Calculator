@@ -24,7 +24,7 @@ public class CalculatorTest {
 	@Test
 	public void testSubtract() {
 		int result=obj.subtract(2,3);
-		assertEquals(1, result);
+		assertEquals(-1, result);
 	}
 
 }
