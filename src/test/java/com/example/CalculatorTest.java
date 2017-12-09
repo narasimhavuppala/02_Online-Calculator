@@ -12,7 +12,7 @@ public class CalculatorTest {
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
 		
-		 obj=new Calculator();
+		 obj=new Calculator(); 
 	}
 
 	@Test
